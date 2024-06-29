@@ -110,10 +110,10 @@ Footer.defaultProps = {
     {
       name: "useful links",
       items: [
-        { name: "About Us", path: "https://www.creative-tim.com/presentation" },
+        { name: "About Us", path: "/about-us" },
         {
           name: "Contact Us",
-          path: "https://creative-tim.com/contact-us?ref=mtk",
+          path: "/contact-us",
         },
        
       ],
