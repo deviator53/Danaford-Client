@@ -18,7 +18,7 @@ import {
       title: "Phone Number",
       icon: PhoneIcon,
       description:
-        "(+234)8121886346",
+        "(+234)8121886346", (+234)7032145887
     },
     {
       title: "Email",
